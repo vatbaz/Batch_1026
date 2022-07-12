@@ -1,3 +1,0 @@
-Today is Tuesday.
-Month is July.
-Year is 2022.
